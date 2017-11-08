@@ -15,21 +15,21 @@ public class CsedemoAgent {
     public String sayHei(String name){
 
         // Do Some Magic Here!
-        return null;
+         return "Hei " + name ;
     };
 
 
     public String sayHello(String name){
 
         // Do Some Magic Here!
-        return null;
+         return "hello " + name ;
     };
 
 
     public String sayHi(String name){
 
         // Do Some Magic Here!
-        return null;
+        return "welcome " + name ;
     };
 
 
