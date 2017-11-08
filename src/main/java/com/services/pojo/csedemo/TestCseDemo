@@ -1,1 +1,11 @@
 
+public class TestCseDemo {
+
+ 
+
+	
+	@Test
+	private void testsayHi(){
+	cseDemoimpl.sayHi("tommy");	
+	}
+}
